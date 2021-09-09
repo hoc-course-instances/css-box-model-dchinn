@@ -4,3 +4,28 @@ main {
   justify-content: center;
   align-items: center;
 }
+.box{
+  background-color: deeppink;
+  border:solid dodgerblue 3px;
+  color:white;
+}
+
+.box1{
+  margin:50px;
+  padding :30px 50px;
+
+
+
+}
+.box2{
+  margin:10px;
+  padding :50px 
+
+
+}
+.box3{
+  margin:20px;
+  padding :40px 30px
+
+
+}
